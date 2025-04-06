@@ -1,0 +1,16 @@
+/*  Sehej Aujla 667677843  */
+body{background:url(img/cool-background1.png);}
+
+
+
+a:hover{
+    color: green;
+}
+
+a:active{
+    color:blue
+}
+a{
+    text-decoration: none;
+}
+
